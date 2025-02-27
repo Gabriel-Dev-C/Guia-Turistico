@@ -2,7 +2,7 @@
 
 > Página web desenvolvida para um design receptivo de um guia turístico prático para viajantes.
 
-O foco do projeto é desenvolver um design responsivo para todos os dispositivos terem a oportunidade de acessar a página combinado com o HTML semântico, e desenvolver um guia realmente prático para quem tem interesse em conhecer o mundo.
+O foco do projeto é desenvolver um design responsivo utilizando SASS para todos os dispositivos terem a oportunidade de acessar a página combinado com o HTML semântico, e desenvolver um guia realmente prático para quem tem interesse em conhecer a Coréia do Sul.
 
 
 <p align="center">
